@@ -1,0 +1,17 @@
+.slide {
+  width: 100%;
+  height: auto;
+  cursor: grab;
+  width: calc(100% - 5px);
+  border-radius: 20px;
+}
+
+.slideContainer {
+  border: 1px solid #766deb;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.container {
+  padding: 10px;
+}

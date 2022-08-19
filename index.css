@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.maxWidth100vw {
+  max-width: 100vw;
+}
+
+.centerContent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fitWallpaper {
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.margin0 {
+  margin: 0px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
+.owl-dot span {
+  background-color: #5a3e81 !important;
+}
+
+.owl-dot.active span {
+  background-color: #fb397d !important;
+}
+
+.owl-stage-outer {
+  margin-bottom: 20px;
+}
+
+.owl-nav {
+  display: none;
+}
+
+.owl-item.active.center .item {
+  border-width: 4px;
+  border-style: solid;
+  border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.neon {
+  font-weight: bolder;
+  font-family: beon;
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #b800e6, 0 0 20px #b800e6, 0 0 25px #b800e6,
+    0 0 30px #b800e6, 0 0 35px #b800e6;
+}
+
+.neon-alternative {
+  font-weight: bolder;
+  font-family: beon;
+  color: #fff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #01ff2c, 0 0 20px #01ff2c, 0 0 25px #01ff2c,
+    0 0 30px #01ff2c, 0 0 35px #01ff2c;
+}
+
+.instructions-paragraph {
+  color: white;
+  text-align: justify;
+}
+
+.topElement {
+  margin-top: 45px;
+}
+
+.center {
+  text-align: center;
+}
+
+.text {
+  font-family: SfUIDisplay;
+  font-style: normal;
+}
+
+.underline {
+  text-decoration: underline yellow;
+}
+
+.subtitle {
+  font-family: SfUIDisplay;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.neonScroll {
+  scrollbar-color: #06DEE1 black;
+  overflow: scroll;
+}
+
+.noHorizontalScroll {
+  overflow-x: hidden;
+}
+
+.neonScroll::-webkit-scrollbar {
+  width: 5px;
+}
+
+.neonScroll::-webkit-scrollbar-track {
+  border: 7px solid #232943;
+  box-shadow: inset 0 0 2.5px 2px rgba(0, 0, 0, 0.5);
+}
+
+.neonScroll::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #06DEE1, #79FF6C);
+  border-radius: 3px;
+}

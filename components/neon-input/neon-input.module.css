@@ -1,0 +1,24 @@
+.input input, .input textarea {
+  background: #000000d9 !important;
+  font-family: Arial;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  border-radius: 20px;
+  border: 3px solid #4678d8cc;
+}
+
+.input fieldset {
+  border-color: rgba(255, 255, 255, 0) !important;
+}
+
+.input > div {
+  padding: 0px;
+}
+
+.input > label {
+  background: black;
+}

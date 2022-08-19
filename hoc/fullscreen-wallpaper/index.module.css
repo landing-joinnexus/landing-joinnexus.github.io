@@ -1,0 +1,7 @@
+.fullScreen {
+  min-height: 100vh;
+  height: 100%;
+  width: 100vw;
+  -webkit-transition: background-image 1s ease-in-out;
+  transition: background-image 1s ease-in-out;
+}

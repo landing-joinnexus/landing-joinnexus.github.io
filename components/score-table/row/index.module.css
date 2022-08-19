@@ -1,0 +1,12 @@
+.videoPlayer {
+  width: 100px;
+  height: 100px;
+}
+
+.videoPlayer * {
+  border-radius: 20px;
+}
+
+.prizeImage {
+  width: 60px;
+}

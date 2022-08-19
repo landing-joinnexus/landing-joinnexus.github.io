@@ -1,0 +1,19 @@
+.neonBox {
+  box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%), 0 1px 3px 0 rgb(0 0 0 / 12%);
+  border: 5px solid #915BEA;
+  max-width: calc(100vw - 50px);
+  background: rgba(0,0,0,.67);
+  padding: 10px;
+  overflow-y: auto;
+  margin: auto;
+  border-radius: 15px;
+  max-height: calc(100vh - 400px);
+  background: rgba(35, 40, 164, 0.2);
+  font-family: SfUIDisplay;
+  color: white;
+  font-weight: normal;
+}
+
+.neonBox * {
+  font-weight: normal;
+}

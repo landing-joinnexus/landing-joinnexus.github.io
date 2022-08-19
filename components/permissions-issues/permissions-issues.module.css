@@ -1,0 +1,11 @@
+.instructions {
+  height: 50vh;
+  margin: auto;
+  border: 5px solid #1086e8;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.container {
+  display: grid;
+}

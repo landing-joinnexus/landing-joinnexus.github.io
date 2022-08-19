@@ -1,0 +1,9 @@
+.storyTimeUserstoryTimeUser {
+  width: 200px;
+  height: 200px;
+
+}
+
+.storyTimeUserstoryTimeUser > div {
+  border-radius: 20px;
+}

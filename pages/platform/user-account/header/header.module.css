@@ -1,0 +1,10 @@
+.profileImage {
+  width: 90px;
+  height: 90px;
+  margin: auto;
+}
+
+.container {
+  display: grid;
+  text-align: center;
+}

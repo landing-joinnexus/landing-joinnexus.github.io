@@ -1,0 +1,14 @@
+.gameTitle {
+  font-size: 30px;
+  font-family: SfUIDisplay;
+  font-weight: bold;
+  color: white;
+}
+
+@media screen and ( max-height: 800px ) { 
+  .gameTitle {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+}

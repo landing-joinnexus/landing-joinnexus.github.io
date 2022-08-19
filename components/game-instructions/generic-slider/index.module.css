@@ -1,0 +1,11 @@
+.bomb {
+  width: 40px;
+}
+
+.container {
+  display: -webkit-inline-box;
+}
+
+.box {
+  margin-bottom: 15px;
+}

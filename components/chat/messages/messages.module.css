@@ -1,0 +1,9 @@
+.message {
+  text-align: left;
+  margin: 5px;
+}
+
+.container {
+  overflow: auto;
+  max-height: calc(10vh - 30px);
+}

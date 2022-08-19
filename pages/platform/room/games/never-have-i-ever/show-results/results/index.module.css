@@ -1,0 +1,24 @@
+.table {
+  min-width: 650px;
+  text-align: left;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  font-family: SfUIDisplay;
+}
+
+.table > div:nth-child(odd) {
+  border-right: 5px solid #915BEA;
+  font-weight: 800;
+}
+
+.table > div:nth-child(even) {
+  font-weight: 600;
+}
+
+.table > div:nth-child(1), .table > div:nth-child(2) {
+  border-bottom: 5px solid #915BEA;
+}
+
+.table > div {
+  padding: 10px;
+}
