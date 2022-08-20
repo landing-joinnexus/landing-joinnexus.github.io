@@ -1,8 +1,0 @@
-.chatContainer {
-  display: flex;
-  align-items: center;
-}
-
-.chatInput {
-  width: calc(100% - 90px)
-}
