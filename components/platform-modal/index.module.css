@@ -1,0 +1,20 @@
+.container {
+  background: #000000b3;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background: #12123D;
+  border: 3.5px solid #283EAF;
+  padding: 20px;
+}
+
+@media (min-width: 700px) {
+  .modal {
+    width: 800px;
+  }
+}
+

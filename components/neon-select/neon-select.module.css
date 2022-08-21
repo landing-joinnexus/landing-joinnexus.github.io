@@ -1,0 +1,11 @@
+.input fieldset {
+  background: #040306;
+  color: white;
+  border: 3px solid rgb(56 97 173) !important;
+  border-radius: 20px;
+}
+
+.input > div > div {
+  z-index: 1;
+  color: white;
+}

@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.player {
+  height: 40vh;
+  width: 20vw;
+}
+
+.player > div {
+  border-radius: 20px;
+  cursor: default;
+}

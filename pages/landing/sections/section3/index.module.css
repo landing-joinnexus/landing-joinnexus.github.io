@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px 80px;
+}
+
+.rightContainer {
+  flex: 60%;
+  max-width: 60%;
+}
+
+.leftContainer {
+  flex: 40%;
+  max-width: 40%;
+}
+
+.maxWidth {
+  max-width: 55vw;
+}
+
+.leftContainer > * {
+  padding-left: 15px;
+}
+
+.mockup {
+  max-height: 400px;
+}
+
+@media (max-width: 992px) {
+  .rightContainer,
+  .leftContainer {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 30px 10px;
+  }
+
+  .maxWidth {
+    max-width: 100vw;
+  }
+}
+

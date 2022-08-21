@@ -1,0 +1,29 @@
+.text {
+  font-family: InterBold;
+}
+
+.container {
+  color: white;
+  font-size: 22px;
+}
+
+.check {
+  width: 116px;
+}
+
+.celebrate {
+  width: 40px;
+}
+
+.messageContainer {
+  max-width: 650px;
+}
+
+.contentContainer {
+  display: grid;
+  grid-template-columns: max-content 121px;
+}
+
+.actionContainer {
+  text-align: right;
+}

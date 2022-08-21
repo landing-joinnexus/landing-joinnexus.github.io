@@ -1,0 +1,8 @@
+.chip {
+  color: white !important;
+  margin: 10px !important;
+}
+
+.chipWithCounter {
+  cursor: pointer !important;
+}

@@ -1,0 +1,32 @@
+.title {
+  font-family: "InterBold";
+  font-size: 18px;
+}
+
+.subtitle {
+  font-family: "InterSemiBold";
+  font-size: 40px;
+}
+
+.container {
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 30px;
+}
+
+.addUserContainer {
+  text-align: right;
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+
+.usersCount {
+  display: flex;
+}
+
+.usersCount > div {
+  display: grid;
+  text-align: center;
+}

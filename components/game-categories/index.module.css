@@ -1,0 +1,5 @@
+.categoriesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  max-height: 30vh;
+}

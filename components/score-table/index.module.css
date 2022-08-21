@@ -1,0 +1,39 @@
+.particle {
+  width: 50px;
+}
+
+.prize {
+  width: 70px;
+}
+
+.table {
+  width: 100%;
+  border-spacing: 0px;
+}
+
+.tableContainer {
+  height: calc(100vh - 300px);
+  overflow-y: scroll;
+  overflow-x: none;
+}
+
+.table tbody tr td {
+  padding: 15px;
+}
+
+.table tbody tr td:nth-child(1), 
+.table tbody tr td:nth-child(2),
+.table tbody tr td:nth-child(3) {
+  border-right: 5px solid #915bea;
+}
+
+.table tbody tr:nth-child(1) td, 
+.table tbody tr:nth-child(2) td,
+.table tbody tr:nth-child(3) td {
+  border-bottom: 5px solid #915bea;
+}
+
+.table tbody tr:last-child td {
+  border-bottom: none;
+}
+

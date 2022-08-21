@@ -1,0 +1,22 @@
+.container {
+  background: #09086680;
+  color: white;
+  border: 3px solid #283eaf;
+  padding: 15px 30px;
+  font-family: SfUIDisplay;
+  border-radius: 10px;
+  overflow: auto;
+}
+
+.container > table {
+  width: 100%;
+  border-spacing: 0px;
+}
+
+.container > table > thead > tr > th {
+  font-size: 20px;
+  text-align: left;
+  padding: 10px 1px;
+  font-weight: normal;
+  border-bottom: 2px solid #283eafb3;
+}

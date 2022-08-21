@@ -1,0 +1,20 @@
+.gameButton {
+  margin: 10px;
+  font-size: 24px;
+  padding: 15px;
+  position: relative;
+  line-height: 3rem;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  -webkit-font-smoothing: antialiased;
+  border-radius: 30px;
+  user-select: none;
+  box-shadow: 0 0 0 0 #b800e6, 0.5rem 0.5rem 30px #13092d;
+  transition: box-shadow 0.6s;
+  outline: none;
+  cursor: pointer;
+  max-width: calc(100vw - 20px);
+  font-family: SfUIDisplay;
+}

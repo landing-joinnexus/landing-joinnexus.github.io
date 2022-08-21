@@ -1,0 +1,31 @@
+.button {
+  background: #283eaf;
+  border: 1px solid #0c249d;
+}
+
+.button,
+.buttonAlternative {
+  color: white;
+  font-family: SfUIDisplay;
+  font-style: normal;
+  cursor: pointer;
+  width: 252px;
+  font-size: 20px;
+  padding: 10px 6px;
+  border-radius: 20px;
+}
+
+.button:hover {
+  background: none;
+  border: 7px solid #0c249d;
+  padding: 4px 3px;
+}
+
+.buttonAlternative {
+  background: none;
+  border: none;
+}
+
+.buttonAlternative:hover {
+  font-weight: bold;
+}

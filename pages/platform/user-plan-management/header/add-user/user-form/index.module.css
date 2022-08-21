@@ -1,0 +1,14 @@
+.subtitle {
+  color: white;
+  font-family: "InterBold";
+}
+
+.formContainer {
+  margin-bottom: 15px;
+  display: grid;
+}
+
+.actionContainer {
+  margin-top: 20px;
+  text-align: right;
+}

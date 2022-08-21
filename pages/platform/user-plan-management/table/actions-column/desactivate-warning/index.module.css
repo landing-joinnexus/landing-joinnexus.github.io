@@ -1,0 +1,18 @@
+.container {
+  color: white;
+}
+
+.message {
+  font-size: 18px;
+  font-family: InterBold;
+}
+
+.buttonContainer {
+  text-align: right;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: #283EAF;
+  text-decoration-thickness: 3px;
+}

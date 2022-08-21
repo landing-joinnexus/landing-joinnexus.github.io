@@ -1,0 +1,25 @@
+.icon {
+  width: 50px;
+}
+
+.container {
+  display: flex;
+  font-family: SfUIDisplay;
+  margin: 10px 0px;
+}
+
+.name {
+  font-size: 18px;
+}
+
+.email {
+  font-size: 15px;
+  color: #C5B8B8;
+}
+
+.informationContainer {
+  display: flex;
+  margin-left: 20px;
+  flex-direction: column;
+  margin-top: 10px;
+}

@@ -1,0 +1,10 @@
+
+
+.input > div {
+  padding-bottom: 10px;
+}
+
+.input > label {
+  font-family: 'InterItalic';
+  width: 1000px;
+}

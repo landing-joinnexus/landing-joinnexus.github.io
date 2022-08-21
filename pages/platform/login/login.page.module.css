@@ -1,0 +1,13 @@
+.content {
+  width: 600px;
+  padding: 10px;
+  margin-top: 50px;
+  text-align: center;
+  max-width: 100%;
+}
+
+.centerIcon {
+  margin: 30px 0px;
+  width: 500px; 
+  max-width: 100%;
+}
