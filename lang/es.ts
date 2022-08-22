@@ -428,13 +428,21 @@ export const TRANSLATION_ES = {
     the_premium_user: "El usuario premium",
     has_been_added: "ha sido agregado satisfactoriamente a joinnexus.",
     surely_this_calls_for_a_celebration: "Sin duda, esto amerita una celebración.",
-    warning_1: 'Recuerde que sí el usuario ha ingresado al menos una vez a la plataforma durante el actual periodo facturado, no podrá agregar otro usuario en su lugar hasta el próximo periodo de facturación. En caso contrario, podrá agregar otro usuario al instante',
-    warning_2: '¿Estás seguro que quieres desactivar el acceso de',
+    warning_1:
+      "Recuerde que sí el usuario ha ingresado al menos una vez a la plataforma durante el actual periodo facturado, no podrá agregar otro usuario en su lugar hasta el próximo periodo de facturación. En caso contrario, podrá agregar otro usuario al instante",
+    warning_2: "¿Estás seguro que quieres desactivar el acceso de",
   },
   billing: {
     you_have_reach_the_limit_of_active_users:
       "Has alcanzado el límite de usuarios activos. Puedes adquirir una nueva licencia para agregar un nuevo usuario.",
     you_have_reach_the_limit_of_users_in_your_billing_period:
       "Has alcanzado el límite de usuarios en su período de facturación. Puedes adquirir una nueva licencia para agregar este nuevo usuario.",
+    payment_date: "Fecha de pago",
+    amount: "Cantidad",
+    currency: "Moneda",
+    accounts_amount: "Cantidad de cuentas",
+    payment_method: "Método de pago",
+    billing_information: "Información de facturación",
+    expiration_date: "Expiration date",
   },
 };

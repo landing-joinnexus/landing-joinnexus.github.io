@@ -9,6 +9,7 @@ export * from "./game.service";
 export * from "./hypotethically.service";
 export * from "./most-likely-to.service";
 export * from "./never-have-i-ever.service";
+export * from './payment.service';
 export * from './plan.service';
 export * from "./room.service";
 export * from "./think-fast.service";

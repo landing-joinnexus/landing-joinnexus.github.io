@@ -1,0 +1,27 @@
+.titlePage {
+  text-align: center;
+  color: white;
+  font-family: SfUIDisplay;
+  font-size: 28px;
+}
+
+.activeUntilContainer {
+  display: flex;
+  color: white;
+  margin: 20px 0px;
+}
+
+.activeUntilContainer > div {
+  display: grid;
+  text-align: center;
+}
+
+.title {
+  font-family: "InterBold";
+  font-size: 18px;
+}
+
+.subtitle {
+  font-family: "InterSemiBold";
+  font-size: 20px;
+}

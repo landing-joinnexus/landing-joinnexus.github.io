@@ -1,5 +1,5 @@
 import { BrowserValidator, TokenExtractor } from "hoc";
-import { UserPlanManagement } from "pages/platform";
+import { BillsView, UserPlanManagement } from "pages/platform";
 import RoomPage from "pages/platform/room/room.page";
 import RoomsPage from "pages/platform/rooms/rooms.page";
 import UserAccount from "pages/platform/user-account/user-account";
@@ -14,6 +14,7 @@ const Platform = () => (
         <Route path={`${Routing.platform.room}/:pin`} element={<RoomPage />} />
         <Route path={`account`} element={<UserAccount />} />
         <Route path={'user-plan-management'} element={<UserPlanManagement />} />
+        <Route path={'bills'} element={<BillsView />} />
       </Routes>
     </BrowserValidator>
   </TokenExtractor>

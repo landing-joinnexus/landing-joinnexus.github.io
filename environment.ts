@@ -19,12 +19,16 @@ export const environment = {
   categories: {
     root: `${process.env.REACT_APP_API_URL}/categories`,
   },
+  payments: {
+    root: `${process.env.REACT_APP_API_URL}/payments`,
+  },
   users: {
     root: `${process.env.REACT_APP_API_URL}/users`,
     subscription: `${process.env.REACT_APP_API_URL}/users/subscription`,
   },
   plans: {
     root: `${process.env.REACT_APP_API_URL}/plans`,
+    plans: `${process.env.REACT_APP_API_URL}/plans/plans`,
     userLicenseAssignments: `${process.env.REACT_APP_API_URL}/plans/user-license-assignments`,
     userLicenseAssignment: `${process.env.REACT_APP_API_URL}/plans/user-license-assignment`,
   },

@@ -2,6 +2,10 @@ import { environment } from "environment";
 import { get, patch, post } from "utils";
 
 class PlanService {
+  findUserPlan() {
+    return get(environment.plans.plans);
+  }
+
   findUserLicenseAssignments() {
     return get(environment.plans.userLicenseAssignments);
   }

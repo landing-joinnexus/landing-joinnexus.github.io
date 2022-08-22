@@ -1,6 +1,9 @@
 export interface Bill {
-  createdAt: string;
   id: number;
-  payedAt: string;
+  createdAt: string;
   price: number;
+  accountsAmount: number;
+  currency: string;
+  paymentMethod: string;
+  transactionId: string;
 }
