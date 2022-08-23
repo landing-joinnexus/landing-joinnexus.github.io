@@ -63,6 +63,14 @@
 }
 
 @font-face {
+  font-family: "InterMedium";
+  src: url("assets/fonts/inter/Inter-Medium.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
   font-family: "InterRegular";
   src: url("assets/fonts/inter/Inter-Regular.ttf");
   font-weight: normal;
@@ -79,6 +87,13 @@
 @font-face {
   font-family: "InterBoldItalic";
   src: url("assets/fonts/inter/Inter-BoldItalic.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "InterExtraBold";
+  src: url("assets/fonts/inter/Inter-ExtraBold.ttf");
   font-weight: normal;
   font-style: normal;
 }

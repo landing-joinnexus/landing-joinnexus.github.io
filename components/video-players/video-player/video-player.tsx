@@ -40,7 +40,7 @@ const InternalVideoPlayer = (props: Props) => {
   return (
     <div data-testid="video-player" style={playerContainerStyle} key={userId} onClick={onClick}>
       <Video className={classes.join(" ")} userId={userId} />
-      <h3 className={`neon ${Styles.playerName}`}>
+      <h3 className={`${Styles.playerName}`}>
         <label>{userNameFormatted}</label> {noAudioIcon}
       </h3>
     </div>

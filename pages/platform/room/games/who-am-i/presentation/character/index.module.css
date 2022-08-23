@@ -7,5 +7,6 @@
 .answer {
   line-height: 36px;
   color: #FFFFFF;
-  -webkit-text-stroke: 1px #946DE5;
+  -webkit-text-stroke: 0.5px #946DE5;
+  font-family: InterMedium;
 }

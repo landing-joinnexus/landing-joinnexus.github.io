@@ -5,6 +5,8 @@
   text-overflow: ellipsis;
   margin: 10px auto;
   text-align: center;
+  color: #DFDEFF;
+  -webkit-text-stroke: 0.5px #D3A6DE;
 }
 
 .selected {

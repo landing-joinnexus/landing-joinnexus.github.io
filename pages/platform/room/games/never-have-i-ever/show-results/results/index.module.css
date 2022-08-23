@@ -3,12 +3,13 @@
   text-align: left;
   display: grid;
   grid-template-columns: 150px 1fr;
-  font-family: SfUIDisplay;
+  font-family: InterSemiBold;
 }
 
 .table > div:nth-child(odd) {
   border-right: 5px solid #915BEA;
   font-weight: 800;
+  font-family: InterExtraBold;
 }
 
 .table > div:nth-child(even) {

@@ -13,10 +13,13 @@
 
 .description {
   color: white;
+  font-family: SfUIDisplay;
+  font-size: 17px;
 }
 
 .answer {
   line-height: 36px;
   color: #FFFFFF;
-  -webkit-text-stroke: 1px #946DE5;
+  -webkit-text-stroke: 0.5px #4077E2;
+  font-family: InterMedium !important;
 }
