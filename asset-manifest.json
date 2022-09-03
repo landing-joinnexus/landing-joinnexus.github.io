@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.0a0605b1.chunk.css",
-    "main.js": "/static/js/main.8bbab72f.chunk.js",
-    "main.js.map": "/static/js/main.8bbab72f.chunk.js.map",
+    "main.js": "/static/js/main.a0df7896.chunk.js",
+    "main.js.map": "/static/js/main.a0df7896.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7cdbb561.js",
     "runtime-main.js.map": "/static/js/runtime-main.7cdbb561.js.map",
     "static/css/2.b81440ff.chunk.css": "/static/css/2.b81440ff.chunk.css",
-    "static/js/2.c5883360.chunk.js": "/static/js/2.c5883360.chunk.js",
-    "static/js/2.c5883360.chunk.js.map": "/static/js/2.c5883360.chunk.js.map",
+    "static/js/2.fd7b717f.chunk.js": "/static/js/2.fd7b717f.chunk.js",
+    "static/js/2.fd7b717f.chunk.js.map": "/static/js/2.fd7b717f.chunk.js.map",
     "static/js/3.0fd9f1b4.chunk.js": "/static/js/3.0fd9f1b4.chunk.js",
     "static/js/3.0fd9f1b4.chunk.js.map": "/static/js/3.0fd9f1b4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.b81440ff.chunk.css.map": "/static/css/2.b81440ff.chunk.css.map",
     "static/css/main.0a0605b1.chunk.css.map": "/static/css/main.0a0605b1.chunk.css.map",
-    "static/js/2.c5883360.chunk.js.LICENSE.txt": "/static/js/2.c5883360.chunk.js.LICENSE.txt",
+    "static/js/2.fd7b717f.chunk.js.LICENSE.txt": "/static/js/2.fd7b717f.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/static/media/sf-ui-display-medium.32f93875.otf",
     "static/media/alternative_icon.ba923cc5.webp": "/static/media/alternative_icon.ba923cc5.webp",
     "static/media/amazed.ba0e519e.webp": "/static/media/amazed.ba0e519e.webp",
@@ -58,7 +58,7 @@
     "static/media/slack-white.aae12a7f.svg": "/static/media/slack-white.aae12a7f.svg",
     "static/media/slide-1.e230503a.webp": "/static/media/slide-1.e230503a.webp",
     "static/media/slide-2.6e69037d.webp": "/static/media/slide-2.6e69037d.webp",
-    "static/media/slide-3.dc24f8bf.webp": "/static/media/slide-3.dc24f8bf.webp",
+    "static/media/slide-3.33bfe6d9.webp": "/static/media/slide-3.33bfe6d9.webp",
     "static/media/slide-4.1932f8d1.webp": "/static/media/slide-4.1932f8d1.webp",
     "static/media/slide-5.00fd7c42.webp": "/static/media/slide-5.00fd7c42.webp",
     "static/media/star.webp": "/static/media/star.d9910357.webp",
@@ -77,8 +77,8 @@
   "entrypoints": [
     "static/js/runtime-main.7cdbb561.js",
     "static/css/2.b81440ff.chunk.css",
-    "static/js/2.c5883360.chunk.js",
+    "static/js/2.fd7b717f.chunk.js",
     "static/css/main.0a0605b1.chunk.css",
-    "static/js/main.8bbab72f.chunk.js"
+    "static/js/main.a0df7896.chunk.js"
   ]
 }
