@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e794434a.chunk.css",
-    "main.js": "/static/js/main.4eaf03e1.chunk.js",
-    "main.js.map": "/static/js/main.4eaf03e1.chunk.js.map",
+    "main.js": "/static/js/main.9ae71cb0.chunk.js",
+    "main.js.map": "/static/js/main.9ae71cb0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f03a4129.js",
     "runtime-main.js.map": "/static/js/runtime-main.f03a4129.js.map",
     "static/css/2.b81440ff.chunk.css": "/static/css/2.b81440ff.chunk.css",
@@ -27,7 +27,6 @@
     "static/media/index.module.css": "/static/media/cross.bb427da4.svg",
     "static/media/en.c2750ed9.svg": "/static/media/en.c2750ed9.svg",
     "static/media/es.c812b0e0.svg": "/static/media/es.c812b0e0.svg",
-    "static/media/excited.1a7831a4.svg": "/static/media/excited.1a7831a4.svg",
     "static/media/faq.f3d7a61b.svg": "/static/media/faq.f3d7a61b.svg",
     "static/media/features_1.6fc3eb33.webp": "/static/media/features_1.6fc3eb33.webp",
     "static/media/features_2.f6a8cf8e.webp": "/static/media/features_2.f6a8cf8e.webp",
@@ -35,7 +34,6 @@
     "static/media/features_4.889e34fa.webp": "/static/media/features_4.889e34fa.webp",
     "static/media/features_5.c4ad54bb.webp": "/static/media/features_5.c4ad54bb.webp",
     "static/media/features_6.f5483a86.webp": "/static/media/features_6.f5483a86.webp",
-    "static/media/fine.72365df3.svg": "/static/media/fine.72365df3.svg",
     "static/media/galactic.5ee8ad5b.webp": "/static/media/galactic.5ee8ad5b.webp",
     "static/media/google-white.2a8f8186.svg": "/static/media/google-white.2a8f8186.svg",
     "static/media/home.38353f81.svg": "/static/media/home.38353f81.svg",
@@ -46,12 +44,10 @@
     "static/media/mars.f7e0d1b0.webp": "/static/media/mars.f7e0d1b0.webp",
     "static/media/mic_off.svg": "/static/media/mic_off.6535e890.svg",
     "static/media/mic_on.f49cb06d.svg": "/static/media/mic_on.f49cb06d.svg",
-    "static/media/neutral.3c2ef5cc.svg": "/static/media/neutral.3c2ef5cc.svg",
     "static/media/news_1.dca4d7ca.webp": "/static/media/news_1.dca4d7ca.webp",
     "static/media/news_2.77f27aa6.webp": "/static/media/news_2.77f27aa6.webp",
     "static/media/news_3.7f7584ed.webp": "/static/media/news_3.7f7584ed.webp",
     "static/media/office365-white.d79d070d.svg": "/static/media/office365-white.d79d070d.svg",
-    "static/media/overwhelmed.2181daef.svg": "/static/media/overwhelmed.2181daef.svg",
     "static/media/payu.098c2363.webp": "/static/media/payu.098c2363.webp",
     "static/media/position_1.bba17147.webp": "/static/media/position_1.bba17147.webp",
     "static/media/position_2.f37b0684.webp": "/static/media/position_2.f37b0684.webp",
@@ -61,7 +57,6 @@
     "static/media/request-admin.72bda9bc.svg": "/static/media/request-admin.72bda9bc.svg",
     "static/media/rocket.01dc3506.webp": "/static/media/rocket.01dc3506.webp",
     "static/media/rocket.f1b37cf7.webp": "/static/media/rocket.f1b37cf7.webp",
-    "static/media/sad.27bfa0f0.svg": "/static/media/sad.27bfa0f0.svg",
     "static/media/sad.cfb4123d.webp": "/static/media/sad.cfb4123d.webp",
     "static/media/section_1_wallpaper.e779f07f.webp": "/static/media/section_1_wallpaper.e779f07f.webp",
     "static/media/section_3_wallpaper.f649b474.webp": "/static/media/section_3_wallpaper.f649b474.webp",
@@ -96,6 +91,6 @@
     "static/css/2.b81440ff.chunk.css",
     "static/js/2.b1be25e3.chunk.js",
     "static/css/main.e794434a.chunk.css",
-    "static/js/main.4eaf03e1.chunk.js"
+    "static/js/main.9ae71cb0.chunk.js"
   ]
 }
